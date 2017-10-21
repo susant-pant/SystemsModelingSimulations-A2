@@ -1,0 +1,57 @@
+Lambda = 0.50
+    Deterministic distribution:
+	    AVERAGE WAIT IN QUEUE = 0.00
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 0.00
+    Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 5.77
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 8.07
+    Hyper-Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 5.91
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 7.80
+    Correlated distribution:
+	    AVERAGE WAIT IN QUEUE = 1205.24
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 756.11
+
+
+Lambda = 0.55
+    Deterministic distribution:
+	    AVERAGE WAIT IN QUEUE = 0.00
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 0.00
+    Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 25.18
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 24.65
+    Hyper-Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 17.16
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 17.92
+    Correlated distribution:
+	    AVERAGE WAIT IN QUEUE = 1990.33
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 1208.97
+
+Lambda = 0.60
+    Deterministic distribution:
+	    AVERAGE WAIT IN QUEUE = 287.94
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 166.31
+    Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 539.98
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 273.86
+    Hyper-Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 275.94
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 202.28
+    Correlated distribution:
+	    AVERAGE WAIT IN QUEUE = 2644.86
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 1586.95
+
+Lambda = 0.65
+    Deterministic distribution:
+	    AVERAGE WAIT IN QUEUE = 842.61
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 486.76
+    Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 1091.98
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 592.87
+    Hyper-Exponential distribution:
+	    AVERAGE WAIT IN QUEUE = 803.09
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 516.55
+    Correlated distribution:
+	    AVERAGE WAIT IN QUEUE = 3198.64
+	    WAIT-IN-QUEUE STANDARD DEVIATION = 1907.19
+

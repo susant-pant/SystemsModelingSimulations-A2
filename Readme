@@ -1,0 +1,7 @@
+To compile:
+    javac *.java
+
+To run:
+    java SingleServerQueue
+
+Tested on my home computer. Should work fine elsewhere since it's just Java without any dependencies. After running the program, the directory will be flooded with a bunch of text files (which I probably should have spawned in a separate folder). The only problem with the program (as far as I can tell) is in the output, which looks very flawed (there's lack of documentation, but I like to think the code speaks for itself). I intend to comment the code at a later point in time and push it to git, but right now I'm very sleep-deprived. @_@
